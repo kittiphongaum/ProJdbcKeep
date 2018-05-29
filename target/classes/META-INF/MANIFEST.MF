@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: keep_projactjub
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JookDdook
+Implementation-Vendor-Id: com.csi
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/keep_projact
+ jub/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
